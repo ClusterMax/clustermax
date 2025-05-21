@@ -70,7 +70,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" alt="Electron"/>
   <img src="https://codigojava.online/wp-content/uploads/2023/02/JavaFX.png" width="40" alt="JavaFX"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" alt="Vite"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="40" alt="Vite"/>
 </p>
 
 ### 🎨 Design & Tools
