@@ -98,11 +98,11 @@
 ---
 
 ## 📊 GitHub Stats
-```
+<!--- Disabled (for now)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clustermax&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-```
+--->
 <p align="left">
   <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ClusterMax" alt="GitHub Stats" />
 </p>
